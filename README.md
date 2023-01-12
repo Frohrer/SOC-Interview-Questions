@@ -35,7 +35,7 @@ Below is a list of the topics on which questions can be asked in the interview.
 
 ### Incident Responder
 
- - Incident response prosedure
+ - Incident response procedure
  - How to detect and remediate specific kind of attack (like golden ticket, phishing etc.)
  - Ransomware remediation process
 
@@ -113,7 +113,7 @@ If you do have any project to show, make sure that you prepare it before the int
 
 2FA is an extra layer of security used to make sure that people trying to gain access to an online account are who they say they are. First, a user will enter their username and a password. Then, instead of immediately gaining access, they will be required to provide another piece of information. ([Authy](https://authy.com/what-is-2fa/))
 
-### Could you share some general endpoint security product names?
+### Could you share some general endpoint security product categories?
 
  - Antivirus
  - EDR
